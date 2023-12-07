@@ -22,6 +22,7 @@
   "homepage": "https://github.com/bezoerb/adventofcode2022#readme",
   "dependencies": {
     "callsite": "^1.0.0",
+    "common-tags": "^1.8.2",
     "picocolors": "^1.0.0"
   }
 }
